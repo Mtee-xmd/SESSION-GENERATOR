@@ -1,5 +1,5 @@
 const PastebinAPI = require('pastebin-js'),
-pastebin = new PastebinAPI('EMWTMkQAVfJa9kM-MRUrxd5Oku1U7pgL')
+pastebin = new PastebinAPI('mKoIZabR0uHqg1PCZl-Kc7M9bzSYnlo6')
 const {makeid} = require('./id');
 const express = require('express');
 const fs = require('fs');
@@ -67,10 +67,9 @@ ______________________________________
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@wasitech1_
-║❒ *Owner:* _https://wa.me/923192173398_
+║❒ *Owner:* _https://wa.me/263786453367_
 ║❒ *Repo:* _https://github.com/wasixd/WASI-MD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
+║❒ *Wachannel:* https://whatsapp.com/channel/0029Vb6EJfCHLHQQGd2KGL1P
 ║❒ *Plugins:* _https://github.com/wasixd/WASI-MD-PLUGINS_
 ╚════════════════════════╝
 _____________________________________
